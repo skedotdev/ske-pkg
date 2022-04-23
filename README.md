@@ -1,2 +1,2 @@
-# ske
-All SIKessEm projects under development
+# Ske
+The SIKessEm PHP packages
