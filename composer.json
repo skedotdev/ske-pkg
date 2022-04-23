@@ -20,8 +20,8 @@
         "app": "./ske app"
     },
     "support": {
-        "source": "https://github.com/skefoss/ske",
-        "issues": "https://github.com/skefoss/ske/issues"
+        "source": "https://github.com/skefoss/ske-pkg",
+        "issues": "https://github.com/skefoss/ske-pkg/issues"
     },
     "require": {
         "php": ">=8.0"

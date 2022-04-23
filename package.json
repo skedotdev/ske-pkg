@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skefoss/ske.git"
+    "url": "git+https://github.com/skefoss/ske-pkg.git"
   },
   "keywords": [
     "sikessem",
@@ -23,6 +23,6 @@
   },
   "author": "SIGUI Kessé Emmanuel <contact@sikessem.com>",
   "bugs": {
-    "url": "https://github.com/skefoss/ske/issues"
+    "url": "https://github.com/skefoss/ske-pkg/issues"
   }
 }
