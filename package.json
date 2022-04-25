@@ -4,23 +4,16 @@
   "description": "The SIKessEm Package",
   "homepage": "https://npmjs.org/package/ske-pkg",
   "license": "Apache-2.0",
-  "main": "ske.js",
-  "scripts": {
-    "app": "./ske app"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/skefoss/ske-pkg.git"
   },
   "keywords": [
     "sikessem",
-    "website",
-    "application",
-	"framework"
+    "bundle",
+    "package",
+	"library"
   ],
-  "bin": {
-    "ske": "./ske"
-  },
   "author": "SIGUI Kessé Emmanuel <contact@sikessem.com>",
   "bugs": {
     "url": "https://github.com/skefoss/ske-pkg/issues"

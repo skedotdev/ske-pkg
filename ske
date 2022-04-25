@@ -1,8 +1,0 @@
-#!/usr/bin/env php
-<?php
-
-require_once __DIR__ . DIRECTORY_SEPARATOR . 'ske.php';
-
-$ske = ske_init(__DIR__);
-
-return $ske->runNewApp(__FILE__, $ske->getEnv('APP_MODE', 'dev'), __DIR__ . '/app/cli/cmd', 'Ske\\Cli', 'php');

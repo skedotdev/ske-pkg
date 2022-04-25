@@ -1,14 +1,15 @@
 {
     "name": "ske/pkg",
     "type": "library",
+  	"version": "0.0.0",
     "description": "The SIKessEm Package",
     "homepage": "https://packagist.com/packages/ske/pkg",
     "license": "Apache-2.0",
     "keywords": [
-        "sikessem",
+	  	"sikessem",
+	  	"bundle",
 	  	"package",
-	  	"library",
-	  	"project"
+	  	"library"
     ],
   	"authors": [{
 		"name": "SIGUI Kessé Emmanuel",
@@ -16,9 +17,6 @@
 		"email": "contact@sikessem.com",
 		"role": "Developer"
   	}],
-    "scripts": {
-        "app": "./ske app"
-    },
     "support": {
         "source": "https://github.com/skefoss/ske-pkg",
         "issues": "https://github.com/skefoss/ske-pkg/issues"
@@ -27,11 +25,10 @@
         "php": ">=8.0"
     },
     "config": {
-        "vendor-dir": "pkg",
+        "vendor-dir": ".",
         "preferred-install": "dist",
         "sort-packages": true
     },
-    "bin": "./ske",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
