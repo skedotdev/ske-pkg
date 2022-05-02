@@ -1,21 +1,21 @@
 {
   "name": "ske-pkg",
   "version": "0.0.0",
-  "description": "The SIKessEm Package",
+  "description": "Create a new Ske Package",
   "homepage": "https://npmjs.org/package/ske-pkg",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skefoss/ske-pkg.git"
+    "url": "git+https://github.com/skedotdev/ske-pkg.git"
   },
   "keywords": [
-    "sikessem",
-    "bundle",
-    "package",
-	"library"
+	"bundle",
+	"library",
+	"package",
+	"repository-template"
   ],
   "author": "SIGUI Kessé Emmanuel <contact@sikessem.com>",
   "bugs": {
-    "url": "https://github.com/skefoss/ske-pkg/issues"
+    "url": "https://github.com/skedotdev/ske-pkg/issues"
   }
 }
